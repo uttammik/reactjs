@@ -1,0 +1,14 @@
+.btn{
+    background-color: cadetblue;
+    color: beige;
+    margin : 20px;
+    padding : 20px;
+    border-radius: 10px;
+    border : none;
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
